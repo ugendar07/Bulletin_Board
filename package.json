@@ -1,0 +1,21 @@
+{
+  "name": "bulletin_board",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "solcjs --abi --include-path node_modules/ --base-path . ./contracts/BulletinBoard.sol --output-dir build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "ethers": "^6.8.0",
+    "solc": "^0.8.21"
+  },
+  "description": ""
+}
