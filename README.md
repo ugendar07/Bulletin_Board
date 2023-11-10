@@ -1,3 +1,4 @@
+Steps Followed:
 Install Nodejs 
 
 Install Truffle using command '''npm install truffle -g''' -g flag ensures truffle installed globally
