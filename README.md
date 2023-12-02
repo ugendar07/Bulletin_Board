@@ -1,4 +1,29 @@
+# Bulletin Board Smart Contract
 
+## Overview
+
+This project is an Ethereum smart contract that serves as a bulletin board, allowing users to post messages and interact with the content on the Ethereum blockchain. Additionally, a frontend application has been developed to provide a user-friendly interface for interacting with the smart contract.
+
+## Features
+
+- **Bulletin Board Smart Contract:** The core functionality of the project is implemented in an Ethereum smart contract. Users can post messages, read existing messages, and interact with the bulletin board.
+
+- **Frontend Application:** A user interface has been developed to interact with the smart contract. The frontend allows users to easily submit messages, view existing messages, and engage with the bulletin board.
+
+## Getting Started
+
+### Prerequisites
+
+```bash
+# Install Node.js and npm
+https://nodejs.org/
+
+# Install Truffle - Smart contract development framework
+npm install -g truffle
+
+# Install Ganache - Local blockchain for testing
+https://www.trufflesuite.com/ganache
+```
 ## Set Up
 Install Nodejs 
 
