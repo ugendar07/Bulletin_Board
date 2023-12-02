@@ -35,7 +35,7 @@ git clone [ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Bo
 ```npm install```
 
 - **Compile and deploy the smart contract**
-```truffle compile``` 
+```truffle compile``` and 
 ```truffle migrate```
 
 ## Usage
