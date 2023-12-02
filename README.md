@@ -27,7 +27,7 @@ npm install -g truffle
 ### Instalation
 ```bash
 # Clone the repository
-git clone[ https://github.com/your-username/ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
+git clone[ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
 
 # Navigate to the project directory
 cd ethereum-bulletin-board
@@ -49,7 +49,7 @@ truffle migrate
 This project is licensed under the ```MIT License```.
 
 ## Acknowledgments
-** Special thanks to Truffle for providing an excellent smart contract development framework. **
+- **Special thanks to Truffle for providing an excellent smart contract development framework.**
 ## Contact 
 For questions or support, please contact ugendar07@gmail.com.
 ## Set Up
