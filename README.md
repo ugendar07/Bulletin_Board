@@ -24,6 +24,7 @@ npm install -g truffle
 # Install Ganache - Local blockchain for testing
 [Ganache](https://www.trufflesuite.com/ganache)
 ```
+git clone[ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
 ### Instalation
 ```bash
 # Clone the repository
