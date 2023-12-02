@@ -14,7 +14,6 @@ This project is an Ethereum smart contract that serves as a bulletin board, allo
 
 ### Prerequisites
 
-```bash
 # Install Node.js and npm
 [Node.js and npm](https://nodejs.org/)
 
@@ -23,12 +22,11 @@ npm install -g truffle
 
 # Install Ganache - Local blockchain for testing
 [Ganache](https://www.trufflesuite.com/ganache)
-```
  
 ### Instalation
-```bash
+
 # Clone the repository
-```git clone [ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)```
+git clone [ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
 
 # Navigate to the project directory
 cd ethereum-bulletin-board
@@ -39,7 +37,6 @@ npm install
 # Compile and deploy the smart contract
 truffle compile
 truffle migrate
-```
 
 ## Usage
 1. Connect your Ethereum wallet to the frontend application.
