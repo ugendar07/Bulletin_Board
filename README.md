@@ -27,7 +27,7 @@ npm install -g truffle
 ### Instalation
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ethereum-bulletin-board.git
+git clone[ https://github.com/your-username/ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
 
 # Navigate to the project directory
 cd ethereum-bulletin-board
