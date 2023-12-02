@@ -29,7 +29,7 @@ This project is an Ethereum smart contract that serves as a bulletin board, allo
 git clone [ethereum-bulletin-board.git](https://github.com/ugendar07/Bulletin_Board.git)
 
 - **Navigate to the project directory**
-```cd ethereum-bulletin-board```
+```cd Bulletin_Board```
 
 - **Install dependencies**
 ```npm install```
